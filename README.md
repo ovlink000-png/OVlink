@@ -11,8 +11,7 @@ OVLink is a compact, low-latency digital video transmission module built on the 
 
 > 🇯🇵 日本では技適対応・免許不要で使用できます
 
-<img width="1090" height="890" alt="image" src="https://github.com/user-attachments/assets/5187ff20-ac9a-494d-bbf9-45308181a754" />
-
+[![OVLink Demo](https://img.youtube.com/vi/-McKLC0uo5M/0.jpg)](https://youtu.be/-McKLC0uo5M)
 
 ## Features
 
