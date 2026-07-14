@@ -11,7 +11,8 @@ OVLink is a compact, low-latency digital video transmission module built on the 
 
 > 🇯🇵 日本では技適対応・免許不要で使用できます
 
-<!-- デモ動画のリンクをここに追加 -->
+<img width="1090" height="890" alt="image" src="https://github.com/user-attachments/assets/5187ff20-ac9a-494d-bbf9-45308181a754" />
+
 
 ## Features
 
@@ -162,7 +163,7 @@ The TX side uses two chips (ESP32-P4 for encoding + XIAO ESP32-S3 for WiFi) to:
 
 - 📝 [Qiita Article (Japanese)](https://qiita.com/ovlink000) — Technical write-up of the HVGA prototype
 - 🐦 [X (Twitter)](https://x.com/KZvtxjlyz) — Development updates
-<!-- - 🎁 [Kibidango]() — Crowdfunding (coming soon) -->
+
 
 ## Hardware
 
